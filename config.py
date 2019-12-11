@@ -10,7 +10,7 @@ class DevelopmentConfig(Config):
     """
     Development configurations
     """
-
+drrbvgsrgvragvd
     DEBUG = True
     # setting this to True activates the debug mode on the app.
     # This allows us to use the Flask debugger in case of an unhandled exception, and
